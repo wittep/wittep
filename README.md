@@ -1,10 +1,4 @@
-## 👋 Halo, saya WittepDev
-
-Saya adalah seorang **Bot Developer Discord** sekaligus pemilik dari **BakulGaming.id** — sebuah platform digital yang menyediakan layanan **top-up khusus game Roblox** secara cepat, aman, dan terjangkau. Toko ini saya bangun untuk memenuhi kebutuhan para gamer, terutama generasi muda Gen-Z, yang menginginkan pengalaman transaksi yang modern, responsif, dan penuh gaya.
-
-Dalam bidang pengembangan bot, saya fokus menciptakan bot Discord yang fungsional dan interaktif, mulai dari kalkulator pajak Robux, pelacak transaksi, hingga sistem otomatisasi server. Dengan kombinasi keahlian teknis dan branding kreatif, saya terus membangun ekosistem yang memudahkan komunitas game dalam berinteraksi dan bertransaksi secara digital.
-
----
+## 👋 Halo, saya Phasya
 
 ### 🛠️ Apa yang Saya Kerjakan
 
@@ -15,7 +9,7 @@ Dalam bidang pengembangan bot, saya fokus menciptakan bot Discord yang fungsiona
   - Sistem otomatisasi dan moderasi server
   - Integrasi API (Roblox, payment gateway, dll)
 
-- 🛍️ **Pemilik BakulGaming.id**  
+- 🛍️ **owner BakulGaming.id**  
   Toko digital khusus top-up Robux, dengan desain dan pelayanan khas Gen-Z. Fokus pada kecepatan transaksi dan interaksi yang dekat dengan komunitas gamer.
 
 ---
