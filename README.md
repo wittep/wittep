@@ -1,6 +1,6 @@
 ## 👋 Halo, saya Phasya
 - 🤖 **Developer Bot Discord**  
-- 🛍️ **owner BakulGaming.id**  
+- 🛍️ **Owner BakulGaming.id**  
 ---
 ### 📫 Hubungi Saya
 
