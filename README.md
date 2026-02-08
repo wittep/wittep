@@ -1,4 +1,4 @@
-## 👋 Halo, saya Phasya
+## 👋 I’m Phasya, a student and aspiring developer.
 - 🤖 **Developer Bot Discord**  
 - 🛍️ **Owner BakulGaming.id**  
 ---
